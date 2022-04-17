@@ -1,0 +1,112 @@
+{
+    "organizations": [
+        {
+            "id":1,
+            "name": "Organization for Autism Research",
+            "logoUrl": "https://moamen236.github.io/graduation_project/assets/images/orgnization/1.png",
+            "url": "https://researchautism.org/",
+            "discription":"Our intent with every dollar we raise and spend pursuing knowledge through research or creating resources is to offer support to self-advocates",
+            "address": "2111 Wilson Boulevard, Suite 401 Arlington, VA 22201",
+            "phone": "(866) 366-9710"
+        },
+        {
+            "id":2,
+            "name": "autism speaks",
+            "logoUrl": "https://moamen236.github.io/graduation_project/assets/images/orgnization/2.png",
+            "url": "https://www.autismspeaks.org/",
+            "discription":"We’re working to create a kinder, more inclusive world for people with autism, and we invite you to join us.",
+            "address": "1 East 33rd Street 4th Floor New York, NY 10016",
+            "phone": "(646) 385-8500"
+        },
+        {
+            "id":3,
+            "name": "Brain & Behavior",
+            "logoUrl": "https://moamen236.github.io/graduation_project/assets/images/orgnization/3.png",
+            "url": "https://www.bbrfoundation.org/",
+            "discription":"Committed to alleviating the suffering caused by mental illness by awarding grants that will lead to advances and breakthroughs in scientific research.",
+            "address": "747 Third Avenue, 33rd Floor New York, NY 10017",
+            "phone": "646-681-4888"
+        },
+        {
+            "id":4,
+            "name": "The color of autism",
+            "logoUrl": "https://moamen236.github.io/graduation_project/assets/images/orgnization/4.png",
+            "url": "https://www.thecolorofautism.org/",
+            "discription":"Committed to serving people of color who are affected by Autism Spectrum Disorders. We are devoted to empowering families and lessening their isolation.",
+            "address": "Calista Wise 7292 Dictum Av. San Antonio MI 47096",
+            "phone": "313-444-9035 "
+        },
+        {
+            "id":5,
+            "name": "National Institutes of Health",
+            "logoUrl": "https://moamen236.github.io/graduation_project/assets/images/orgnization/5.png",
+            "url": "https://www.nidcd.nih.gov/",
+            "discription":"The NIH is the federal government's focal point for the support of biomedical research",
+            "address": "6110 Executive Blvd. Suite 30 Rockville MD 20852",
+            "phone": "(800) 328-8476"
+        },
+        {
+            "id":6,
+            "name": "US Autism Association",
+            "logoUrl": "https://moamen236.github.io/graduation_project/assets/images/orgnization/6.png",
+            "url": "https://www.usautism.org/",
+            "discription":"Different Minded Renaissance, Inc., doing business as US Autism Association, is registered as a 501(c)(3) non-profit organization for autism education, support, and resources.",
+            "address": "Cecilia Chapman 711-2880 Nulla St. Mankato Mississippi 96522",
+            "phone": " 1-888-9AUTISM, 1-888-928-8476"
+        },
+        {
+            "id":7,
+            "name": "Southwest Autism Research & Resource Center",
+            "logoUrl": "https://moamen236.github.io/graduation_project/assets/images/orgnization/7.png",
+            "url": "https://www.autismcenter.org/",
+            "discription":"To advance research and provide a lifetime of support for individuals with autism and their families.",
+            "address": "300 N 18th Street  Phoenix, AZ 85006",
+            "phone": " (602) 340-8717 "
+        },
+        {
+            "id":8,
+            "name": "National Autism Association",
+            "logoUrl": "https://moamen236.github.io/graduation_project/assets/images/orgnization/8.png",
+            "url": "http://nationalautismassociation.org/",
+            "discription":"The mission respond to the most urgent needs of the autism community, providing real help and hope so that all affected can reach their full potential.",
+            "address": "One Park Avenue, Suite 1 Portsmouth, RI  02871",
+            "phone": "877.622.2884"
+        },
+        {
+            "id":9,
+            "name": "International Society for Autism Research ",
+            "logoUrl": "https://moamen236.github.io/graduation_project/assets/images/orgnization/9.png",
+            "url": "https://www.autism-insar.org/default.aspx",
+            "discription":"To improve the lives of people affected by autism by promoting the highest quality research.",
+            "address": "400 Admiral Blvd. | Kansas City, MO 64106",
+            "phone": " +1 816.595.4852"
+        },
+        {
+            "id":10,
+            "name": "Center for Autism & Related Disorders",
+            "logoUrl": "https://moamen236.github.io/graduation_project/assets/images/orgnization/10.png",
+            "url": "https://www.centerforautism.com/",
+            "discription":"Provides assistance with specific areas of concern for a family and develops and implements strategies to diminish challenging behaviors and teach necessary skills.",
+            "address": "21600 Oxnard St. Suite 1800 Woodland Hills, CA 91367",
+            "phone": " (818) 345-2345"
+        },
+        {
+            "id":11,
+            "name": "Autistic Self Advocacy Network",
+            "logoUrl": "https://moamen236.github.io/graduation_project/assets/images/orgnization/11.png",
+            "url": "https://autisticadvocacy.org/",
+            "discription":"Our activities include public policy advocacy, the development of autistic cultural activities, and leadership trainings for autistic self-advocates",
+            "address": "PO Box 66122 • Washington, DC 20035",
+            "phone": "+1 816.595.4852"
+        },
+        {
+            "id":12,
+            "name": "The National Autism Resource and Information Center",
+            "logoUrl": "https://moamen236.github.io/graduation_project/assets/images/orgnization/12.png",
+            "url": "https://autismnow.org/",
+            "discription":"The National Autism Resource and Information Center will be a dynamic and interactive",
+            "address": "PO Box 66122 • Washington, DC 20035",
+            "phone": "1-855-828-8476"
+        }
+    ]
+}

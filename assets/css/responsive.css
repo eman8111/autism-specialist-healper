@@ -1,0 +1,210 @@
+@media (max-width: 767.98px) {
+  /* -- Nav -- */
+  .navbar-brand {
+    margin-right: 0;
+  }
+  .navbar-brand img {
+    width: 50px;
+  }
+  .main-banner h1{
+    font-size: 30px;
+  }
+  .main-banner p{
+    font-size: 14px;
+  }
+  /* -- Nav -- */
+
+  /* -- Banner and form First Section  -- */
+
+  .banner {
+    height: auto;
+    padding: 60px 0;
+  }
+  .main-form {
+    min-height: 1000px;
+  }
+  .main-form::before {
+    background-color: rgb(0 0 0 / 45%);
+  }
+
+  .main-form {
+    background-position: 20%;
+  }
+  .left-side {
+    padding: 10px 0 20px 20px;
+  }
+  .title h1 {
+    margin-top: 60px;
+  }
+  .main-form {
+    padding-top: 20px;
+  }
+  .right-side::before {
+    display: none;
+  }
+  .nav-tabs .nav-link {
+    background-color: transparent;
+  }
+
+  /* -- Banner and form First Section  -- */
+
+  /* -- How we can support  -- */
+  .wwd {
+    padding: 80px 0;
+  }
+  .wwd h2 {
+    margin-bottom: 0;
+  }
+  .wwd h2::after {
+    font-size: 45px;
+    top: -10px;
+    right: 0px;
+  }
+
+  .wwd .discription {
+    margin-top: 50px;
+  }
+
+  /* -- How we can support  -- */
+
+  /*-- specialist -- */
+  .sp-details-tabs .nav-item {
+    margin-bottom: 40px;
+  }
+  /*-- specialist -- */
+
+  /* == paln == */
+
+  .plan .nav-tabs .nav-link{
+    font-size: 14px;
+  }
+  .plan .nav-tabs .nav-item.show .nav-link,
+  .plan .nav-tabs .nav-link.active{
+    font-size: 16px;
+  }
+
+  /* == paln == */
+
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  /* -- Nav -- */
+
+  .navbar-brand {
+    margin-right: 0;
+  }
+  .navbar-brand img {
+    width: 50px;
+  }
+
+  /* -- Banner and form First Section  -- */
+  .banner {
+    height: auto;
+    padding: 60px 0;
+  }
+  .main-form {
+    min-height: 980px;
+  }
+  .main-form::before {
+    background-color: rgb(0 0 0 / 45%);
+  }
+  .title {
+    margin: 40px 0;
+    padding: 0 20px;
+  }
+  .title h1 {
+    margin: 0;
+  }
+  .left-side {
+    padding: 40px 0 0 40px;
+  }
+  .right-side::before {
+    display: none;
+  }
+  .nav-tabs .nav-link {
+    background-color: transparent;
+  }
+  /* -- Banner and form First Section  -- */
+
+  /* -- How we can support  -- */
+  .wwd {
+    padding: 100px 0;
+  }
+  .wwd h2 {
+    margin-bottom: 0;
+  }
+
+  .wwd h2::after {
+    font-size: 45px;
+    top: -10px;
+    right: 80px;
+  }
+  .wwd .discription .discription-head {
+    margin-top: 40px;
+  }
+
+  /* -- How we can support  -- */
+
+  /*-- specialist -- */
+  .sp-details-tabs .nav-item {
+    margin-bottom: 40px;
+  }
+  /*-- specialist -- */
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  /* -- Banner and form First Section  -- */
+  .title h1 {
+    font-size: 35px;
+    margin-top: 3em;
+  }
+  .left-side {
+    padding: 40px 0 0 30px;
+  }
+  .main-form {
+    min-height: 630px;
+  }
+  .login {
+    margin-top: 3em;
+  }
+  /* -- Banner and form First Section  -- */
+
+  /* -- How we can support  -- */
+  .wwd h2 {
+    margin-bottom: 0;
+  }
+  .wwd h2::after {
+    font-size: 60px;
+    top: -7px;
+  }
+
+  /* -- How we can support  -- */
+}
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+  /* -- How we can support  -- */
+  .wwd h2::after {
+    top: -16px;
+    right: 150px;
+    font-size: 70px;
+  }
+  /* -- How we can support  -- */
+}
+
+@media (min-width: 1600px) {
+  .sp-details {
+    padding: 90px 0 !important;
+  }
+  /* -- Banner and form First Section -- */
+  .main-form {
+    min-height: 750px;
+  }
+  .main-form .title h1,
+  .main-form .tab-content {
+    margin-top: 4.5em;
+  }
+  /* -- Banner and form First Section -- */
+  .main-banner {
+    height: 40vh;
+  }
+}
